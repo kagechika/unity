@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../cc_unity/140405_vuforia_sample/user-defined targets smaple/Assets/Qualcomm Augmented Reality/Scripts/UserDefinedTargetBuildingBehaviour.cs">
+    <Files>
+      <File FileName="../../../cc_unity/140405_vuforia_sample/user-defined targets smaple/Assets/Qualcomm Augmented Reality/Scripts/DefaultTrackableEventHandler.cs" Line="14" Column="2" />
+      <File FileName="../../../cc_unity/140405_vuforia_sample/user-defined targets smaple/Assets/Qualcomm Augmented Reality/Scripts/ImageTargetBehaviour.cs" Line="14" Column="27" />
+      <File FileName="../../../cc_unity/140405_vuforia_sample/user-defined targets smaple/Assets/Qualcomm Augmented Reality/Scripts/UserDefinedTargetBuildingBehaviour.cs" Line="9" Column="38" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
